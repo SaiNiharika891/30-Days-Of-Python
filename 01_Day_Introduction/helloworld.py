@@ -2,12 +2,19 @@
 # Day 1 - 30DaysOfPython Challenge
 
 print(2 + 3)   # addition(+)
+5
 print(3 - 1)   # subtraction(-)
+2
 print(2 * 3)   # multiplication(*)
+6
 print(3 / 2)   # division(/)
+1.5
 print(3 ** 2)  # exponential(**)
+9
 print(3 % 2)   # modulus(%)
+1
 print(3 // 2)  # Floor division operator(//)
+1
 
 # Checking data types
 
